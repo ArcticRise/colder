@@ -15,7 +15,7 @@ and open the template in the editor.(Replication of a bootstrap template with so
     <body>
 
         <form class="form-horizontal" role="form" method="post" action="code.PHP">
-            <h1 align = "center"> Bootstrap Contact Form</h1>
+            <h1 align = "center">Contact Form</h1>
 	<div class="form-group">
 		<label for="name" class="col-sm-2 control-label">Name</label>
 		<div class="col-sm-10">
